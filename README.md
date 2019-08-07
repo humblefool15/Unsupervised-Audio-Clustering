@@ -1,0 +1,2 @@
+# Unsupervised-Audio-Clustering
+Identifying acoustic events from a continuously streaming audio source is of interest for many applications including environmental monitoring for basic research. In this scenario neither different event classes are known nor what distinguishes one class from another. Therefore, an unsupervised feature learning method for exploration of audio data is presented in this repository
